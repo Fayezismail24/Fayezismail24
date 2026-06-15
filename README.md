@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Fayez Ismail
 
 IT Support & Network Engineer based in Tripoli, Lebanon.  
