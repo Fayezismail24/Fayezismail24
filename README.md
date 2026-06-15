@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Fayez Ismail
 
-IT Support & Network Engineer based in Tripoli, Lebanon.  
+IT Support & Network Engineer based in  Lebanon.  
 I build and maintain IT infrastructure — from networks and VoIP systems to servers and access control.
 
----
+
 
 ## 🔧 What I'm currently working on
 
@@ -12,7 +12,7 @@ I build and maintain IT infrastructure — from networks and VoIP systems to ser
 - 🔐 WireGuard VPN & site-to-site connectivity projects
 - 📞 Grandstream UCM PBX systems (20+ SIP extensions)
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -24,12 +24,12 @@ I build and maintain IT infrastructure — from networks and VoIP systems to ser
 **ITSM:** ManageEngine ServiceDesk · ITIL · Odoo  
 **Remote Support:** RDP · AnyDesk  
 
----
+
 
 ## 📫 How to reach me
 - 💼 LinkedIn: linkedin.com/in/fayez-ismail
 
----
+
 
 ## 📜 Certifications
 
