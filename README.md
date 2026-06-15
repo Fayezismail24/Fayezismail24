@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Fayezismail24/Fayezismail24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fayez Ismail
 
-Here are some ideas to get you started:
+IT Support & Network Engineer based in Tripoli, Lebanon.  
+I build and maintain IT infrastructure — from networks and VoIP systems to servers and access control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I'm currently working on
+
+- 🌐 IT Support Internship @ **NetWatch.lb**
+- 📡 MikroTik & UniFi multi-site network deployments
+- 🔐 WireGuard VPN & site-to-site connectivity projects
+- 📞 Grandstream UCM PBX systems (20+ SIP extensions)
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Networking:** MikroTik · UniFi · WireGuard VPN · VLAN · TCP/IP · DNS · DHCP  
+**VoIP/PBX:** Grandstream UCM · SIP Extensions  
+**Security:** Hikvision CCTV · Dahua Access Control · ZKTeco  
+**Servers:** Synology NAS · Windows Server · Active Directory  
+**OS:** Windows · Linux · macOS  
+**ITSM:** ManageEngine ServiceDesk · ITIL · Odoo  
+**Remote Support:** RDP · AnyDesk  
+
+---
+
+## 📫 How to reach me
+- 💼 LinkedIn: linkedin.com/in/fayez-ismail
+
+---
+
+## 📜 Certifications
+
+- 🏅 MikroTik Certified Network Associate (MTCNA) — 2026
+- 🌐 CCNA Switching, Routing & Wireless — 2023
+- ☁️ Google IT Support — 2024
